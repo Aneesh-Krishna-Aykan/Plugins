@@ -7,6 +7,10 @@
   "plugins": [
     {
       "name": "sharetribe-plugin",
+      "source": {
+        "source": "github",
+        "repo": "Aneesh-Krishna-Aykan/Plugins.git"
+      },
       "description": "Comprehensive Sharetribe development skills including coding standards, custom field management, email sending, SSO implementation, and various specialized tools for Sharetribe marketplace development",
       "version": "1.0.0",
       "author": {
@@ -18,25 +22,6 @@
         "coding-standards",
         "marketplace",
         "sharetribe"
-      ],
-      "skills": [
-        "skills/sharetribe-coding-standards",
-        "skills/sharetribe-custom-field-manager",
-        "skills/sharetribe-email-sender",
-        "skills/sharetribe-average-rating-implementation-skill",
-        "skills/sharetribe-filter-management",
-        "skills/sharetribe-google-calendar-sync-implementation",
-        "skills/sharetribe-cross-listing-availability-blocking",
-        "skills/sharetribe-sso-implementation",
-        "skills/skill-creator",
-        "skills/claude-skill-creator",
-        "skills/code-analysis-optimizer",
-        "skills/code-quality-review",
-        "skills/code-review-principles",
-        "skills/data-analysis",
-        "skills/dotnet-coding-standards",
-        "skills/performance-review",
-        "skills/security-penetration-testing"
       ]
     }
   ]
