@@ -7,88 +7,36 @@
   "plugins": [
     {
       "name": "sharetribe-plugin",
-      "source": ".",
       "description": "Comprehensive Sharetribe development skills including coding standards, custom field management, email sending, SSO implementation, and various specialized tools for Sharetribe marketplace development",
       "version": "1.0.0",
       "author": {
         "name": "Aneesh Krishna",
         "email": "aneeashi2@gmail.com"
       },
-      "categories": [
+      "keywords": [
         "development",
         "coding-standards",
         "marketplace",
         "sharetribe"
       ],
       "skills": [
-        {
-          "name": "sharetribe-coding-standards",
-          "description": "Enforces Sharetribe FTW coding standards and patterns"
-        },
-        {
-          "name": "sharetribe-custom-field-manager",
-          "description": "Manages custom fields in Sharetribe marketplace"
-        },
-        {
-          "name": "sharetribe-email-sender",
-          "description": "Email template and sending functionality"
-        },
-        {
-          "name": "sharetribe-average-rating-implementation-skill",
-          "description": "Implements average rating system"
-        },
-        {
-          "name": "sharetribe-filter-management",
-          "description": "Manages search filters and facets"
-        },
-        {
-          "name": "sharetribe-google-calendar-sync-implementation",
-          "description": "Google Calendar integration"
-        },
-        {
-          "name": "sharetribe-cross-listing-availability-blocking",
-          "description": "Cross-listing availability management"
-        },
-        {
-          "name": "sharetribe-sso-implementation",
-          "description": "Single Sign-On implementation"
-        },
-        {
-          "name": "skill-creator",
-          "description": "Guide for creating effective skills"
-        },
-        {
-          "name": "claude-skill-creator",
-          "description": "Claude-specific skill creation tool"
-        },
-        {
-          "name": "code-analysis-optimizer",
-          "description": "Code analysis and optimization"
-        },
-        {
-          "name": "code-quality-review",
-          "description": "Code quality and maintainability analysis"
-        },
-        {
-          "name": "code-review-principles",
-          "description": "Code review best practices"
-        },
-        {
-          "name": "data-analysis",
-          "description": "Data analysis and processing"
-        },
-        {
-          "name": "dotnet-coding-standards",
-          "description": ".NET coding standards and patterns"
-        },
-        {
-          "name": "performance-review",
-          "description": "Performance analysis and optimization"
-        },
-        {
-          "name": "security-penetration-testing",
-          "description": "Security testing and penetration testing"
-        }
+        "skills/sharetribe-coding-standards",
+        "skills/sharetribe-custom-field-manager",
+        "skills/sharetribe-email-sender",
+        "skills/sharetribe-average-rating-implementation-skill",
+        "skills/sharetribe-filter-management",
+        "skills/sharetribe-google-calendar-sync-implementation",
+        "skills/sharetribe-cross-listing-availability-blocking",
+        "skills/sharetribe-sso-implementation",
+        "skills/skill-creator",
+        "skills/claude-skill-creator",
+        "skills/code-analysis-optimizer",
+        "skills/code-quality-review",
+        "skills/code-review-principles",
+        "skills/data-analysis",
+        "skills/dotnet-coding-standards",
+        "skills/performance-review",
+        "skills/security-penetration-testing"
       ]
     }
   ]
