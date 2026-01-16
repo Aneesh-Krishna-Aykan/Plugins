@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for dir in */)",
+      "Bash(do if [ -f \"$dir/SKILL.md\" ])",
+      "Bash(then echo \"✓ $dir has SKILL.md\")",
+      "Bash(else echo \"✗ $dir missing SKILL.md\")",
+      "Bash(fi)",
+      "Bash(done)"
+    ]
+  }
+}

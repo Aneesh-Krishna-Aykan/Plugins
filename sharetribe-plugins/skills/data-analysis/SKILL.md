@@ -1,11 +1,13 @@
+---
+name: data-analysis
+description: |
+  Behavioral guidelines for analyzing hotel assistant bot data including
+  message logs, booking metrics, intent distribution, token usage costs,
+  and operational performance. Apply when analyzing data, querying databases,
+  generating reports, or providing insights.
+---
+
 # Data Analysis Skill
-
-## Description
-
-Behavioral guidelines for analyzing hotel assistant bot data including
-message logs, booking metrics, intent distribution, token usage costs,
-and operational performance. Apply when analyzing data, querying databases,
-generating reports, or providing insights.
 
 ---
 

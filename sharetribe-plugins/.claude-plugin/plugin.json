@@ -1,5 +1,24 @@
 {
   "name": "sharetribe-plugin",
   "description": "Sharetribe team skills for our workflows",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "skills": [
+    "skills/sharetribe-coding-standards",
+    "skills/sharetribe-custom-field-manager",
+    "skills/sharetribe-email-sender",
+    "skills/sharetribe-average-rating-implementation-skill",
+    "skills/sharetribe-filter-management",
+    "skills/sharetribe-google-calendar-sync-implementation",
+    "skills/sharetribe-cross-listing-availability-blocking",
+    "skills/sharetribe-sso-implementation",
+    "skills/skill-creator",
+    "skills/claude-skill-creator",
+    "skills/code-analysis-optimizer",
+    "skills/code-quality-review",
+    "skills/code-review-principles",
+    "skills/data-analysis",
+    "skills/dotnet-coding-standards",
+    "skills/performance-review",
+    "skills/security-penetration-testing"
+  ]
 }
