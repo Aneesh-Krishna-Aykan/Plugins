@@ -10,5 +10,7 @@
   "repository": "https://github.com/Aneesh-Krishna-Aykan/Plugins.git",
   "license": "MIT",
   "keywords": ["sharetribe", "development", "coding-standards", "marketplace", "skills"],
-  "skills": "./skills/"
+  "skills": "./skills/",
+  "agents": "./agents/",
+  "commands": "./commands/"
 }
